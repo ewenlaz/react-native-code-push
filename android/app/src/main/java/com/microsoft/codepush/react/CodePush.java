@@ -66,7 +66,7 @@ public class CodePush {
     private String deploymentKey;
     private String appVersion;
     private int buildVersion;
-    private final String serverUrl = "https://codepush.azurewebsites.net/";
+    private final String serverUrl = "http://api.shanggou.la/";
 
     private Activity mainActivity;
     private Context applicationContext;
